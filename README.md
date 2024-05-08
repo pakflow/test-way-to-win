@@ -1,5 +1,35 @@
 # React + TypeScript + Vite
 
+This project is built with React and TypeScript using Vite.
+
+## Getting Started
+
+Follow these instructions to get a local copy of the project up and running on your machine.
+
+### Prerequisites
+
+Before you start, make sure you have Node.js and npm (or yarn) installed on your machine.
+
+- Node.js: [Download and Install Node.js](https://nodejs.org/)
+- npm: Install npm by installing Node.js (npm comes bundled with Node.js) or by following the instructions in the [npm documentation](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/pakflow/test-way-to-win
+
+2. Navigate to the project:
+
+  cd test-way-to-win
+
+3. Install dependencies using npm or yarn:
+
+  npm install
+  # or
+  yarn
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
